@@ -1,3 +1,3 @@
 # Clima Code 2.0
-### Authors
+### Authors:
 ##### Innocent Mwenda
